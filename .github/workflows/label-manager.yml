@@ -1,4 +1,4 @@
-on: issues
+[![Test](https://github.com/electron-userland/electron-builder/actions/workflows/test.yaml/badge.svg)](https://github.com/electron-userland/electron-builder/actions/workflows/test.yaml)on: issues
 name: Create Default Labels
 jobs:
   labels:
