@@ -1,1 +1,2 @@
-[![Semantic Versioning enforcer](https://github.com/devlynnsingley/electron-builder/actions/workflows/semantic-pr.yml/badge.svg?branch=master)](https://github.com/devlynnsingley/electron-builder/actions/workflows/semantic-pr.yml)
+.github/workflows/test.yaml[![Semantic Versioning enforcer](https://github.com/devlynnsingley/electron-builder/actions/workflows/semantic-pr.yml/badge.svg?branch=master)](https://github.com/devlynnsingley/electron-builder/actions/workflows/semantic-pr.yml)
+.licenses/npm/@octokit/request-error-2.0.0.dep.yml
