@@ -59,7 +59,7 @@
     "read-config-file": "5.0.0",
     "sanitize-filename": "^1.6.3",
     "sax": "^1.2.4",
-    "semver": "^6.3.0",
+    "semver": "^7.5.2",
     "source-map-support": "^0.5.13",
     "stat-mode": "^0.3.0",
     "sumchecker": "^3.0.0",
